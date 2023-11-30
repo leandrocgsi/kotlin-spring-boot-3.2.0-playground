@@ -1,0 +1,70 @@
+https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
+
+kotlin_1.9.10_spring_boot_3.2.0
+
+05_FirstStepsInKotlinwithSpringBoot/      -> git acmp 'First Steps in Kotlin 1.9.10 with Spring Boot 3.2.0'
+06_ParametersAndExceptionHandler/       -> git acmp 'REST Parameters and Exception Handler'
+07_WorkingWithVerbs/                    -> git acmp 'Working with four HTTP Main Verbs'
+08_ConnectingToMySQL/                   -> git acmp 'Connecting to MySQL with Spring Data, JPA and Hibernate'
+09_WorkingWithVOPattern/                -> git acmp 'Implementing VO pattern with Dozer and Model Mapper'
+10_VersioningEndpoints/                 -> git acmp 'Versioning our API'
+11_MigrationsWithFlyWay/                -> git acmp 'Adding migrations support with Flyway'
+12_CustomSerialization/                 -> git acmp 'Custom JSON serialization'
+13_ContentNegotiation/                  -> git acmp 'Implementing Content Negotiation with JSON, XML and YAML'
+14_HATEOAS/                             -> git acmp 'Testing Generation of HATEOAS Links with Mockito'
+14_HATEOAS_Model_Mapper/                -> git acmp 'Testing Generation of HATEOAS Links with Mockito - Model Mapper Version'
+15_WorkingWithSwaggerOpenAPI/           -> git acmp 'Adding Swagger Open API Support'
+16_ConfiguringCORS/                     -> git acmp 'Configuring Cross-Origin Resource Sharing (CORS)'
+17_AuthenticationWithJWT/               -> git acmp 'Implementing Authentication With Spring Security and JWT'
+18_ShieldingOurAPIWithTests/            -> git acmp 'Shielding our API with Rest Assured, Testcontainers and JUnit 5'
+19_WorkingWithPATCHMethod/              -> git acmp 'Working with PATCH Method'
+20_WorkingWithPagination/               -> git acmp 'Implementing Pagination Search'
+21_WorkingWithFiles/                    -> git acmp 'Implementing Upload and Download Files'
+21_WorkingWithFiles_Model_Mapper/       -> git acmp 'Implementing Upload and Download Files - Model Mapper Version'
+22_DockerizingOurApp/                   -> git acmp 'Dockerizing our Application'
+23_DeploingOurAppToAWS/                 -> git acmp 'Deploy to Amazon AWS'
+24_ContinuousIntegrationWithAWS/        -> git acmp 'Continuous Integration with Github, Github Actions, Amazon ECR and ECS'                                       
+25A_BONUS_Hacks_WithYML/                -> git acmp 'Replacing application.properties to application.yml'
+25B_BONUS_Hacks_Archetype_Before/       -> git acmp 'Working with Archetypes'
+25C_BONUS_Hacks_GeneratedArchetype/     -> git acmp 'Working with Archetypes'
+25D_BONUS_Hacks_GeneratedFromArchetype/ -> git acmp 'Working with Archetypes'
+26A_BONUS_OtherDatabases_Postgres/      -> git acmp 'Connecting to Other Databases - Postgres'
+26B_BONUS_OtherDatabases_SQL_Server/    -> git acmp 'Connecting to Other Databases - SQL Server'
+27_BONUS_UpgradingVersions/             -> git acmp 'Migrating to Kotlin 15 and Spring Boot 2.4.1'
+28_BONUS_React/                         -> git acmp 'Consuming API with React'
+29_BONUS_ChatGPT/                       -> git acmp 'Integrating Spring Boot 3.2.0, Kotlin 1.9.10 REST API to ChatGPTAPI'
+
+
+git add 05_FirstStepsInKotlinwithSpringBoot/ | git commit -m'First Steps in Kotlin 1.9.10 with Spring Boot 3.2.0'
+git add 06_ParametersAndExceptionHandler/ | git commit -m'REST Parameters and Exception Handler'
+git add 07_WorkingWithVerbs/ | git commit -m'Working with four HTTP Main Verbs'
+git add 08_ConnectingToMySQL/ | git commit -m'Connecting to MySQL with Spring Data, JPA and Hibernate'
+git add 09_WorkingWithVOPattern/ | git commit -m'Implementing VO pattern with Dozer and Model Mapper'
+git add 10_VersioningEndpoints/ | git commit -m'Versioning our API'
+git add 11_MigrationsWithFlyWay/ | git commit -m'Adding migrations support with Flyway'
+git add 12_CustomSerialization/ | git commit -m'Custom JSON serialization'
+git add 13_ContentNegotiation/ | git commit -m'Implementing Content Negotiation with JSON, XML and YAML'
+
+git add 14_HATEOAS_Dozer/ | git commit -m'Testing Generation of HATEOAS Links with Mockito - Dozer Version'
+git add 14_HATEOAS_Model_Mapper/ | git commit -m'Testing Generation of HATEOAS Links with Mockito - Model Mapper Version'
+
+git add 15_WorkingWithSwaggerOpenAPI/ | git commit -m'Adding Swagger Open API Support'
+git add 16_ConfiguringCORS/ | git commit -m'Configuring Cross-Origin Resource Sharing (CORS)'
+
+git add 17_AuthenticationWithJWT/ | git commit -m'Implementing Authentication With Spring Security and JWT'
+git add 18_ShieldingOurAPIWithTests/ | git commit -m'Shielding our API with Rest Assured, Testcontainers and JUnit 5'
+
+git add 19_WorkingWithPATCHMethod/ | git commit -m'Working with PATCH Method'
+git add 20_WorkingWithPagination/ | git commit -m'Implementing Pagination Search'
+git add 21_WorkingWithFiles/ | git commit -m'Implementing Upload and Download Files'
+git add 22_DockerizingOurApp/ | git commit -m'Dockerizing our Application'
+git add 23_DeploingOurAppToAWS/ | git commit -m'Deploy to Amazon AWS'
+git add 24_ContinuousIntegrationWithAWS/ | git commit -m'Continuous Integration with Github, Github Actions, Amazon ECR and ECS' 
+git add 26A_BONUS_OtherDatabases_Postgres/ | git commit -m'Connecting to Other Databases - Postgres'
+git add 26B_BONUS_OtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Databases - SQL Server'
+
+
+[UPDATES - Spring Boot 3.2.0]
+0808 [UPDATES] Removendo Warnings após o Upgrade p. Spring Boot 3.2.0 e Kotlin 1.9.10 
+1411 [UPDATES] Diferenças entre o Spring Boot 3.2.0 com o Dozer e com o ModelMapper
+1718 [UPDATES] Removendo Depreciações do Spring Boot 3.2.0 na SecurityConfig
