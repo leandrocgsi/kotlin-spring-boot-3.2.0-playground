@@ -60,8 +60,9 @@ git add 21_WorkingWithFiles/ | git commit -m'Implementing Upload and Download Fi
 git add 22_DockerizingOurApp/ | git commit -m'Dockerizing our Application'
 git add 23_DeploingOurAppToAWS/ | git commit -m'Deploy to Amazon AWS'
 git add 24_ContinuousIntegrationWithAWS/ | git commit -m'Continuous Integration with Github, Github Actions, Amazon ECR and ECS' 
-git add 26A_BONUS_OtherDatabases_Postgres/ | git commit -m'Connecting to Other Databases - Postgres'
-git add 26B_BONUS_OtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Databases - SQL Server'
+git add 25A_MavenArchetypes_OriginalProject/ | git commit -m'Working with Maven Archetypes'
+git add 26A_OtherDatabases_Postgres/ | git commit -m'Connecting to Other Databases - Postgres'
+git add 26B_OtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Databases - SQL Server'
 
 
 [UPDATES - Spring Boot 3.2.0]
