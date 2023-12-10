@@ -14,7 +14,7 @@
 	<name>rest-with-spring-boot-and-kotlin-erudio</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>20</java.version>
 		<kotlin.version>1.9.10</kotlin.version>
 	</properties>
 	<dependencies>

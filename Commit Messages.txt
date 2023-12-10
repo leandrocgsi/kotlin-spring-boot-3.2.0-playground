@@ -2,7 +2,7 @@ https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in
 
 kotlin_1.9.10_spring_boot_3.2.0
 
-05_FirstStepsInKotlinwithSpringBoot/      -> git acmp 'First Steps in Kotlin 1.9.10 with Spring Boot 3.2.0'
+05_FirstStepsInKotlinwithSpringBoot/    -> git acmp 'First Steps in Kotlin 1.9.10 with Spring Boot 3.2.0'
 06_ParametersAndExceptionHandler/       -> git acmp 'REST Parameters and Exception Handler'
 07_WorkingWithVerbs/                    -> git acmp 'Working with four HTTP Main Verbs'
 08_ConnectingToMySQL/                   -> git acmp 'Connecting to MySQL with Spring Data, JPA and Hibernate'
