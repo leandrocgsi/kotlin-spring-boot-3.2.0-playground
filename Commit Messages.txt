@@ -66,6 +66,7 @@ git add 26B_OtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Datab
 
 
 [UPDATES - Spring Boot 3.2.0]
+0510 [UPDATES] Diferenças entre o Spring Boot 3.0.1 e Spring Boot 3.2.0
 0808 [UPDATES] Removendo Warnings após o Upgrade p. Spring Boot 3.2.0 e Kotlin 1.9.10 
 1411 [UPDATES] Diferenças entre o Spring Boot 3.2.0 com o Dozer e com o ModelMapper
 1718 [UPDATES] Removendo Depreciações do Spring Boot 3.2.0 na SecurityConfig
