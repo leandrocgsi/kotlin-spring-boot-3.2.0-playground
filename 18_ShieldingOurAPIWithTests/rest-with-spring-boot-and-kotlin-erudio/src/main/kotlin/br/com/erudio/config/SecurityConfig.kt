@@ -48,7 +48,7 @@ class SecurityConfig {
         val customFilter = JwtTokenFilter(tokenProvider)
 
         return http
-            .httpBasic {basic: HttpBasicConfigurer<HttpSecurity> -> basic.disable()}
+            .httpBasic{ basic: HttpBasicConfigurer<HttpSecurity> -> basic.disable()}
             .csrf {csrf: CsrfConfigurer<HttpSecurity> -> csrf.disable()}
             .addFilterBefore(customFilter, UsernamePasswordAuthenticationFilter::class.java)
             .sessionManagement { session:
@@ -66,7 +66,7 @@ class SecurityConfig {
                     .requestMatchers("/api/**").authenticated()
                     .requestMatchers("/users").denyAll()
             }
-            .cors{_: CorsConfigurer<HttpSecurity?>? -> }
+            .cors {_: CorsConfigurer<HttpSecurity?>? ->}
             .build()
     }
 }
