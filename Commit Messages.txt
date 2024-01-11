@@ -29,10 +29,10 @@ kotlin_1.9.10_spring_boot_3.2.0
 25C_BONUS_Hacks_GeneratedArchetype/     -> git acmp 'Working with Archetypes'
 25D_BONUS_Hacks_GeneratedFromArchetype/ -> git acmp 'Working with Archetypes'
 26A_BONUS_OtherDatabases_Postgres/      -> git acmp 'Connecting to Other Databases - Postgres'
-26B_BONUS_OtherDatabases_SQL_Server/    -> git acmp 'Connecting to Other Databases - SQL Server'
+26B_ConnectingToOtherDatabases_SQL_Server/    -> git acmp 'Connecting to Other Databases - SQL Server'
 27_BONUS_UpgradingVersions/             -> git acmp 'Migrating to Kotlin 15 and Spring Boot 2.4.1'
 28_BONUS_React/                         -> git acmp 'Consuming API with React'
-29_BONUS_ChatGPT/                       -> git acmp 'Integrating Spring Boot 3.2.0, Kotlin 1.9.10 REST API to ChatGPTAPI'
+28_BONUS_ChatGPT/                       -> git acmp 'Integrating Spring Boot 3.2.0, Kotlin 1.9.10 REST API to ChatGPTAPI'
 
 
 git add 05_FirstStepsInKotlinwithSpringBoot/ | git commit -m'First Steps in Kotlin 1.9.10 with Spring Boot 3.2.0'
@@ -61,9 +61,9 @@ git add 22_DockerizingOurApp/ | git commit -m'Dockerizing our Application'
 git add 23_DeploingOurAppToAWS/ | git commit -m'Deploy to Amazon AWS'
 git add 24_ContinuousIntegrationWithAWS/ | git commit -m'Continuous Integration with Github, Github Actions, Amazon ECR and ECS' 
 git add 25A_MavenArchetypes_OriginalProject/ | git commit -m'Working with Maven Archetypes'
-git add 26A_OtherDatabases_Postgres/ | git commit -m'Connecting to Other Databases - Postgres'
-git add 26B_OtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Databases - SQL Server'
-
+git add 26A_ConnectingToOtherDatabases_PostgreSQL/ | git commit -m'Connecting to Other Databases - Postgres'
+git add  26B_ConnectingToOtherDatabases_SQL_Server/ | git commit -m'Connecting to Other Databases - SQL Server'
+git add 28_BONUS_ChatGPT/ | git commit -m'Integrating Spring Boot 3.2.0, Kotlin 1.9.10 REST API to ChatGPT API'
 
 [UPDATES - Spring Boot 3.2.0]
 0510 [UPDATES] Diferenças entre o Spring Boot 3.0.1 e Spring Boot 3.2.0
